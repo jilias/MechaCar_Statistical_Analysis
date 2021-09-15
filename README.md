@@ -27,9 +27,21 @@ In total, the lots do meet the manufacturing specifications because variance 62.
 
 ## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/82242081/133384743-6145386f-cfa4-4484-9426-fa2905d9a8a4.png)
+The Suspension coil t-test compares all the lots against the PSI mean of the population; and since the p-value is above 0.05, the hypothesis is accepted and indicates that the means are different. 
 
 ![image](https://user-images.githubusercontent.com/82242081/133384801-3c801e98-d845-4e5a-9c87-936f0388c407.png)
+T-test for lot 1 compares its mean against the PSI. The null hypothesis is rejected which shows that the means are similar because it falls below the significance level.
 
 ![image](https://user-images.githubusercontent.com/82242081/133384847-9cbf8729-2f81-4222-b754-97027cafe225.png)
+For lot 2's t-test, the mean is compared against the population's PSI. The hypothesis is rejected because it falls under the significance, and it indicates the means are similar.
 
 ![image](https://user-images.githubusercontent.com/82242081/133384893-0b4cf98e-97a1-4d1f-b88e-def98e53f89f.png)
+For lot 3 t-test, when the mean is tested against the population's PSI, the null hypothesis is accepted because the p-value falls above the signficance level which indicates that the means are different.
+
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
