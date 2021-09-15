@@ -45,3 +45,6 @@ What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
+
+In the past year with the effects of 2020, gasoline prices are volatile and the economy is placing strains on many household budgets. In addition there has been an unusually high percentage in car thefts and car related crimes. In Milwaukee alone, auto thefts have increased by 181%. For consumer to buy a car in this time, MechaCar would need to look at cost, full efficieny, maintenance, vehicle theft preventions, and safety rating.
+The most important metric to run would the vehicle's cost and the the maintenance cost with a linear regression to see if there is relationship. If the null hypothesis does influence the maintenance cost then costs can be compared against competitors and their cars. In addition, a t-test would be best to use to see if there are statistical differences between means of the maintence cost over time.
